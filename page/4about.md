@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我
+title: 关于
 permalink: /about/
 icon: heart
 type: page
@@ -29,9 +29,9 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/johnbfp)
+* GitHub：[johnbfp](https://github.com/johnbfp)
 * email：23333869@qq.com
 
-## Comments
+## 注释
 
 {% include comments.html %}
